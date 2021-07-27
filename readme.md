@@ -1,4 +1,4 @@
-# Drupal Sample Project
+# Drupal Workshop Roadmap
 
 ## 1. Installation mit Composer
 ```
@@ -80,6 +80,9 @@ $config['config_split.config_split.local']['status'] = TRUE;
 
 
 ### 8. Drupal console
+```
+fin exec composer require drupal/console
+```
 
 ### 9. Deployment
 
